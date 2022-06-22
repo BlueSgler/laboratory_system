@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3276381 */
+  src: url('iconfont.woff2?t=1651055564885') format('woff2'),
+       url('iconfont.woff?t=1651055564885') format('woff'),
+       url('iconfont.ttf?t=1651055564885') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chart-pie:before {
+  content: "\e66a";
+}
+
+.icon-upload:before {
+  content: "\e656";
+}
+
+.icon-i-img:before {
+  content: "\e616";
+}
+
+.icon-zhuxiao:before {
+  content: "\e6ac";
+}
+
+.icon-ashbin:before {
+  content: "\e665";
+}
+
+.icon-bottom:before {
+  content: "\e666";
+}
+
+.icon-close:before {
+  content: "\e668";
+}
+
+.icon-comment:before {
+  content: "\e669";
+}
+
+.icon-setting:before {
+  content: "\e67e";
+}
+
+.icon-add:before {
+  content: "\e664";
+}
+
+.icon-all-fill:before {
+  content: "\e777";
+}
+
+.icon-user:before {
+  content: "\e674";
+}
+
+.icon-message:before {
+  content: "\e713";
+}
+
+.icon-bussiness-man:before {
+  content: "\e6ef";
+}
+
+.icon-data:before {
+  content: "\e6f9";
+}
+
+.icon-nav-list:before {
+  content: "\e6fd";
+}
+
+.icon-Customermanagement:before {
+  content: "\e74b";
+}
+
+.icon-image-text:before {
+  content: "\e754";
+}
+
+.icon-remind:before {
+  content: "\e75f";
+}
+
+.icon-viewgallery:before {
+  content: "\e76c";
+}
+
+.icon-search:before {
+  content: "\e67d";
+}
+
+.icon-group:before {
+  content: "\e753";
+}
+
+.icon-star:before {
+  content: "\e7df";
+}
+
+.icon-science:before {
+  content: "\e8e5";
+}
+
